@@ -1,0 +1,9 @@
+.change-color {
+    /* background-color: #cc6868; */
+    color: #e9e1e1;
+    padding: .5rem 1rem;
+    font-weight: 500;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

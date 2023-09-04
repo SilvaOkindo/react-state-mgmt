@@ -1,0 +1,16 @@
+.row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    justify-content: center;
+}
+
+.row button {
+    padding: .5rem 1rem;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
